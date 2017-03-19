@@ -93,7 +93,7 @@ gitは通常は表示されない.gitファイルに編集履歴を保存して�
 ```
 	$ git add <filename>  //  *.txtのようにワイルドカードも使うことができる
 	$ git rm <filename>   // 完全削除
-	$ git rm --chached <filename>  // ファイルは残すが、gitは管理しない
+	$ git rm --cached <filename>  // ファイルは残すが、gitは管理しない
 	$ git status   // 現状が分かる
 ```
 
